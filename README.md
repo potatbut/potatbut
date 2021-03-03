@@ -3,7 +3,7 @@
 ------------
 
 
-#####My VUE repositories:
+##### My VUE repositories:
 
 
 - [Order form / Форма создания заказа](https://github.com/potatbut/order-form "Order form / Форма создания заказа")
@@ -12,9 +12,9 @@
 
 ------------
 
-#####My JS repositories:
+##### My JS repositories:
 - [Products panel / Панель товаров](https://github.com/potatbut/products-panel "Products panel / Панель товаров")
 
-#####My pages(landing? :tw-1f633: ) repositories for practice:
+##### My pages(landing? :tw-1f633: ) repositories for practice:
 - [Data Warehouse Page](https://github.com/potatbut/march "Data Warehouse Page")
 - [Alivio page](https://potatbut.github.io/alivio/dist/ "Alivio page")
