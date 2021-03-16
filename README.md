@@ -16,7 +16,7 @@
 - [Products panel / Панель товаров](https://github.com/potatbut/products-panel "Products panel / Панель товаров")
 ------------
 
-##### My pages repositories for practice:
+##### My pages repositories:
 - [Leads](https://potatbut.github.io/leads-page/dist/ "Leads")
 - [Data Warehouse Page](https://github.com/potatbut/march "Data Warehouse Page")
 - [Alivio page](https://potatbut.github.io/alivio/dist/ "Alivio page")
