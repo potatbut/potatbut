@@ -17,5 +17,6 @@
 ------------
 
 ##### My pages repositories for practice:
+- [Leads](https://potatbut.github.io/leads-page/dist/ "Leads")
 - [Data Warehouse Page](https://github.com/potatbut/march "Data Warehouse Page")
 - [Alivio page](https://potatbut.github.io/alivio/dist/ "Alivio page")
