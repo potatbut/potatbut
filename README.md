@@ -6,11 +6,9 @@
 ##### My VUE repositories:
 
 
-|  Project name |
-| ------------ | ------------ | ------------ |
-| Order form / Форма создания заказа  | [Demo](https://potatbut.github.io/order-form/#/ "demo")  |  [Repo](https://github.com/potatbut/order-form "Repo") |
-| Client form / Форма создания клиента  | [Demo](https://potatbut.github.io/client-form/)  | [Repo](https://github.com/potatbut/client-form "Repo")  |
-|Simple Vuex store / Простой Vuex магазин| [Demo](https://potatbut.github.io/vuexed/#/ "Demo") | [Repo](https://github.com/potatbut/vuexed "Repo") |
+ - Order form / Форма создания заказа  | [Demo](https://potatbut.github.io/order-form/#/ "demo")  |  [Repo](https://github.com/potatbut/order-form "Repo") |
+ - Client form / Форма создания клиента  | [Demo](https://potatbut.github.io/client-form/)  | [Repo](https://github.com/potatbut/client-form "Repo")  |
+ - Simple Vuex store / Простой Vuex магазин| [Demo](https://potatbut.github.io/vuexed/#/ "Demo") | [Repo](https://github.com/potatbut/vuexed "Repo") |
 
 
 ------------
