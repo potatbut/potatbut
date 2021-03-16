@@ -13,7 +13,7 @@
 ------------
 
 ##### My JS repositories:
-- [Products panel / Панель товаров](https://github.com/potatbut/products-panel "Products panel / Панель товаров")
+- [Products panel / Панель товаров](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров")
 ------------
 
 ##### My pages repositories:
