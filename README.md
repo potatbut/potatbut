@@ -18,5 +18,5 @@
 
 ##### My pages repositories:
 - [Leads](https://potatbut.github.io/leads-page/dist/ "Leads")
-- [Data Warehouse Page](https://github.com/potatbut/march "Data Warehouse Page")
+- [Data Warehouse Page](https://potatbut.github.io/march/dist/index.html "Data Warehouse Page")
 - [Alivio page](https://potatbut.github.io/alivio/dist/ "Alivio page")
