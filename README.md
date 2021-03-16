@@ -6,9 +6,9 @@
 ##### My VUE repositories:
 
 
-- [Order form / Форма создания заказа](https://github.com/potatbut/order-form "Order form / Форма создания заказа")
-- [Simple Vuex store / Простой Vuex магазин](https://github.com/potatbut/vuexed "Simple Vuex store / Простой Vuex магазин")
-- [Client form / Форма создания клиента](https://github.com/potatbut/client-form "Client form / Форма создания клиента")
+- [Order form / Форма создания заказа](https://potatbut.github.io/order-form/#/ "Order form / Форма создания заказа")
+- [Client form / Форма создания клиента](https://potatbut.github.io/client-form/ "Client form / Форма создания клиента")
+- [Simple Vuex store / Простой Vuex магазин](https://potatbut.github.io/vuexed/#/ "Simple Vuex store / Простой Vuex магазин")
 
 ------------
 
