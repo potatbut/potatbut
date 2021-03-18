@@ -15,7 +15,7 @@
 
 ##### My JS repositories:
 - Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
-- Виджет обновления новостной ленты | News feed update widget [Demo](https://potatbut.github.io/updates-widget/dist/ "") | [Repo](https://github.com/potatbut/updates-widget "")
+- Виджет обновления новостной ленты | News feed update widget [Demo](https://potatbut.github.io/update-widget/dist/ "") | [Repo](https://github.com/potatbut/update-widget "")
 ------------
 
 ##### My pages repositories:
