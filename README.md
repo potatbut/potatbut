@@ -20,6 +20,7 @@
 
 ##### My pages repositories:
 - Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
+- Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/potatbut/Frispes-page "Frispes")
 
 ~~ Oldest:
 - Data Warehouse Page - [Demo](https://potatbut.github.io/march/dist/index.html "Data Warehouse Page") | [Repo](https://github.com/potatbut/march "Data Warehouse Page")
