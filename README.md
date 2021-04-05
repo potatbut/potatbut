@@ -1,9 +1,9 @@
-# Hi there 👋
+# Greetings 🧙‍♂️
 
 ------------
 
 
-##### My VUE repositories:
+#### My VUE repositories:
 
 
  - Order form / Форма создания заказа - [Demo](https://potatbut.github.io/order-form/#/ "demo")  |  [Repo](https://github.com/potatbut/order-form "Repo") 
@@ -13,18 +13,16 @@
 
 ------------
 
-##### My JS repositories:
+#### My JS repositories:
 - Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
 - Виджет обновления новостной ленты | News feed update widget [Demo](https://potatbut.github.io/update-widget/dist/ "") | [Repo](https://github.com/potatbut/update-widget "")
 ------------
 
-##### My pages repositories:
-- Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
+#### My pages repositories:
+- Hedgehogs page - [Demo](cutt.ly/rcan0au "Hedgehogs") | [Repo](https://github.com/potatbut/hedgehod-landing "Hedgehogs")
 - Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/potatbut/Frispes-page "Frispes")
+- Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
 
-~~ Oldest:
-- Data Warehouse Page - [Demo](https://potatbut.github.io/march/dist/index.html "Data Warehouse Page") | [Repo](https://github.com/potatbut/march "Data Warehouse Page")
-- Alivio page - [Demo](https://potatbut.github.io/alivio/dist/ "Alivio page") | [Repo](https://github.com/potatbut/alivio "Alivio page")
-
-
-
+###### Outdated:
+- ###### Data Warehouse Page - [Demo](https://potatbut.github.io/march/dist/index.html "Data Warehouse Page") | [Repo](https://github.com/potatbut/march "Data Warehouse Page")
+- ###### Alivio page - [Demo](https://potatbut.github.io/alivio/dist/ "Alivio page") | [Repo](https://github.com/potatbut/alivio "Alivio page")
