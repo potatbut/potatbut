@@ -19,7 +19,7 @@
 ------------
 
 #### My pages repositories:
-- Hedgehogs page - [Demo](cutt.ly/rcan0au "Hedgehogs") | [Repo](https://github.com/potatbut/hedgehod-landing "Hedgehogs")
+- Hedgehogs page - [Demo](https://cutt.ly/Rcan0au "Hedgehogs") | [Repo](https://github.com/potatbut/hedgehod-landing "Hedgehogs")
 - Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/potatbut/Frispes-page "Frispes")
 - Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
 
