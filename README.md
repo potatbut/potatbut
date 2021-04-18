@@ -14,8 +14,9 @@
 ------------
 
 #### My JS repositories:
+- Repair calculator / Калькулятор ремонта [Demo](https://potatbut.github.io/repair-calculator/dist/ "") | [Repo](https://github.com/potatbut/repair-calculator "")
 - Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
-- Виджет обновления новостной ленты | News feed update widget [Demo](https://potatbut.github.io/update-widget/dist/ "") | [Repo](https://github.com/potatbut/update-widget "")
+- News feed update widget  / Виджет обновления новостной ленты [Demo](https://potatbut.github.io/update-widget/dist/ "") | [Repo](https://github.com/potatbut/update-widget "")
 ------------
 
 #### My pages repositories:
