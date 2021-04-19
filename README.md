@@ -6,17 +6,17 @@
 #### My VUE repositories:
 
 
- - Order form / Форма создания заказа - [Demo](https://potatbut.github.io/order-form/#/ "demo")  |  [Repo](https://github.com/potatbut/order-form "Repo") 
- - Client form / Форма создания клиента -  [Demo](https://potatbut.github.io/client-form/)  | [Repo](https://github.com/potatbut/client-form "Repo")  
- - Simple Vuex store / Простой Vuex магазин - [Demo](https://potatbut.github.io/vuexed/#/ "Demo") | [Repo](https://github.com/potatbut/vuexed "Repo") 
+ - Order form / Форма создания заказа - [Demo](https://potatbut.github.io/order-form/#/ "Order form")  |  [Repo](https://github.com/potatbut/order-form "Order form") 
+ - Client form / Форма создания клиента -  [Demo](https://potatbut.github.io/client-form/ "Client form")  | [Repo](https://github.com/potatbut/client-form "Client form")  
+ - Simple Vuex store / Простой Vuex магазин - [Demo](https://potatbut.github.io/vuexed/#/ "Simple Vuex store") | [Repo](https://github.com/potatbut/vuexed "Simple Vuex store") 
 
 
 ------------
 
 #### My JS repositories:
-- Repair calculator / Калькулятор ремонта [Demo](https://potatbut.github.io/repair-calculator/dist/ "") | [Repo](https://github.com/potatbut/repair-calculator "")
+- Repair calculator / Калькулятор ремонта [Demo](https://potatbut.github.io/repair-calculator/dist/ "Repair calculator") | [Repo](https://github.com/potatbut/repair-calculator "Repair calculator")
 - Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
-- News feed update widget  / Виджет обновления новостной ленты [Demo](https://potatbut.github.io/update-widget/dist/ "") | [Repo](https://github.com/potatbut/update-widget "")
+- News feed update widget  / Виджет обновления новостной ленты [Demo](https://potatbut.github.io/update-widget/dist/ "News feed update widget") | [Repo](https://github.com/potatbut/update-widget "News feed update widget")
 ------------
 
 #### My pages repositories:
