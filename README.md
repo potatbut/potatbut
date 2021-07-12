@@ -24,5 +24,3 @@
 - Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/v-zorina/Frispes-page "Frispes")
 - Leads page - [Demo](https://v-zorina.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/v-zorina/leads-page "Leads")
 
-###### Outdated:
-- ###### Alivio page - [Demo](https://v-zorina.github.io/alivio/dist/ "Alivio page") | [Repo](https://github.com/v-zorina/alivio "Alivio page")
