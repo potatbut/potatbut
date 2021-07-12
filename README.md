@@ -20,7 +20,7 @@
 ------------
 
 #### My pages repositories:
-- Hedgehogs page - [Demo](https://cutt.ly/Rcan0au "Hedgehogs") | [Repo](https://github.com/v-zorina/hedgehod-landing "Hedgehogs")
+- Hedgehogs page - [Demo](https://v-zorina.github.io/hedgehod-landing/dist/ "Hedgehogs") | [Repo](https://github.com/v-zorina/hedgehod-landing "Hedgehogs")
 - Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/v-zorina/Frispes-page "Frispes")
 - Leads page - [Demo](https://v-zorina.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/v-zorina/leads-page "Leads")
 
