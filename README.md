@@ -25,5 +25,4 @@
 - Leads page - [Demo](https://v-zorina.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/v-zorina/leads-page "Leads")
 
 ###### Outdated:
-- ###### Data Warehouse Page - [Demo](https://v-zorina.github.io/march/dist/index.html "Data Warehouse Page") | [Repo](https://github.com/v-zorina/march "Data Warehouse Page")
 - ###### Alivio page - [Demo](https://v-zorina.github.io/alivio/dist/ "Alivio page") | [Repo](https://github.com/v-zorina/alivio "Alivio page")
