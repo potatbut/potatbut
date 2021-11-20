@@ -14,6 +14,7 @@
 ------------
 
 #### My JS repositories:
+- Prime number / Простое число [Demo](https://potatbut.github.io/prime-number/index "prime number") | [Repo](https://github.com/potatbut/prime-number "prime number")
 - Repair calculator / Калькулятор ремонта [Demo](https://potatbut.github.io/repair-calculator/dist/ "Repair calculator") | [Repo](https://github.com/potatbut/repair-calculator "Repair calculator")
 - Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
 - News feed update widget  / Виджет обновления новостной ленты [Demo](https://potatbut.github.io/update-widget/dist/ "News feed update widget") | [Repo](https://github.com/potatbut/update-widget "News feed update widget")
