@@ -23,6 +23,5 @@
 
 #### pages repositories:
 - Hedgehogs page - [Demo](https://potatbut.github.io/hedgehod-landing/dist/ "Hedgehogs") | [Repo](https://github.com/potatbut/hedgehod-landing "Hedgehogs")
-- Frispes page - [Demo](https://vamkavo.000webhostapp.com/ "Frispes") | [Repo](https://github.com/potatbut/Frispes-page "Frispes")
 - Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
 
