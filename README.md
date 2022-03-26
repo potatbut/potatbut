@@ -6,8 +6,8 @@
 
 
 
-<a href= "https://t.me/dayavera"><img src="https://img.icons8.com/ios/344/telegram-app.png" width="30" height="30" /></a>
-<a href= "https://www.last.fm/user/daigo-anon"><img src="https://img.icons8.com/ios/344/lastfm.png"  width="30" height="30" /></a>
+<a href= "https://t.me/dayavera"><img src="https://img.icons8.com/doodle/2x/telegram-app.png" width="30" height="30" /></a>
+<a href= "https://www.last.fm/user/daigo-anon"><img src="https://img.icons8.com/doodle/2x/fm.png"  width="30" height="30" /></a>
 
 
 <p> Please, check out my repos </p>
