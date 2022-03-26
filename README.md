@@ -1,7 +1,7 @@
 
 <img  align="left" src="https://media1.giphy.com/media/LqybsmwvhElMzUe4Nw/giphy.gif" width="230" height="230">
                                                                                                                  
-<h6 >I'm frontend developer from Russia.</h6>
+<h6 >I'm a frontend developer from Russia.</h6>
 <h6 >Me 🤝 Endless love for javascript</h6>
 
 
