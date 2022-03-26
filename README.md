@@ -1,26 +1,15 @@
-# Greetings 🧙‍♂️
 
-------------
+<h1 align="center">Hello there</h1> 
+<p align="center"><img  src="https://media1.giphy.com/media/LqybsmwvhElMzUe4Nw/giphy.gif" width="130" height="130"></p>
+<h6 align="center">Simple frontend developer from Russia.</h6>
+<h6 align="center">Me 🤝 Vanilla Javascript</h6>
 
+<p align="center">
+<a href= "https://t.me/dayavera"><img src="https://img.icons8.com/ios/344/telegram-app.png" width="30" height="30" /></a>
+<a href= "https://www.last.fm/user/daigo-anon"><img src="https://img.icons8.com/ios/344/lastfm.png"  width="30" height="30" /></a>
+</p>
 
-#### VUE repositories:
-
-
- - Order form / Форма создания заказа - [Demo](https://potatbut.github.io/order-form/#/ "Order form")  |  [Repo](https://github.com/potatbut/order-form "Order form") 
- - Client form / Форма создания клиента -  [Demo](https://potatbut.github.io/client-form/ "Client form")  | [Repo](https://github.com/potatbut/client-form "Client form")  
- - Simple Vuex store / Простой Vuex магазин - [Demo](https://potatbut.github.io/vuexed/#/ "Simple Vuex store") | [Repo](https://github.com/potatbut/vuexed "Simple Vuex store") 
-
-
-------------
-
-#### JS repositories:
-- Repair calculator / Калькулятор ремонта [Demo](https://potatbut.github.io/repair-calculator/dist/ "Repair calculator") | [Repo](https://github.com/potatbut/repair-calculator "Repair calculator")
-- Prime number / Простое число [Demo](https://potatbut.github.io/prime-number/index "prime number") | [Repo](https://github.com/potatbut/prime-number "prime number")
-- Products panel / Панель товаров - [Demo](https://potatbut.github.io/products-panel/ "Products panel / Панель товаров") | [Repo](https://github.com/potatbut/products-panel " Products panel / Панель товаров")
-- Js practice / Практика js [Demo](https://potatbut.github.io/practice/ "Js practice") | [Repo](https://github.com/potatbut/practice "Js practice")
-- News feed update widget  / Виджет обновления новостной ленты [Demo](https://potatbut.github.io/update-widget/dist/ "News feed update widget") | [Repo](https://github.com/potatbut/update-widget "News feed update widget")
-------------
-
-#### pages repositories:
-- Leads page - [Demo](https://potatbut.github.io/leads-page/dist/ "Leads") | [Repo](https://github.com/potatbut/leads-page "Leads")
-
+<p align="center"> Please, check out my repos </p>
+<p align="center">
+<img src="https://img.icons8.com/ios/344/expand-arrow--v1.png" width=40" height="40">
+ </p>
