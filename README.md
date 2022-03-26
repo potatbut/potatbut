@@ -11,4 +11,4 @@
 
 
 <p> Please, check out my repos </p>
-<img src="https://img.icons8.com/ios/344/expand-arrow--v1.png" width=40" height="40">
+<img src="https://img.icons8.com/ios/344/expand-arrow--v1.png" width="40" height="40">
