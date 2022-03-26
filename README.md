@@ -1,8 +1,4 @@
 
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://img.icons8.com/doodle/452/hello--v1.png" width="100" height="100"></p>
-
-
-
 <img  align="left" src="https://media1.giphy.com/media/LqybsmwvhElMzUe4Nw/giphy.gif" width="230" height="230">
                                                                                                                  
 <h6 >I'm frontend developer from Russia.</h6>
