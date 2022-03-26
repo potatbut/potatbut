@@ -8,7 +8,7 @@
 
 <a target="_blank" href="https://t.me/dayavera"><img src="https://img.icons8.com/doodle/2x/telegram-app.png" width="30" height="30" /></a>
 <a target="_blank" href="https://www.last.fm/user/daigo-anon"><img src="https://img.icons8.com/doodle/2x/fm.png"  width="30" height="30" /></a>
-<a target="_blank" href="https://discord.com/users/852456235177607178/"><img src="https://img.icons8.com/doodle/2x/discord-logo.png"  width="30" height="30" /></a>
+<a target="_blank" href="https://discord.com/users/852456235177607178/"><img src="https://img.icons8.com/doodle/2x/discord--v2.png"  width="30" height="30" /></a>
 
 
 <p> Please, check out my repos </p>
