@@ -7,7 +7,6 @@
 
 
 <a target="_blank" href="https://t.me/dayavera"><img src="https://img.icons8.com/doodle/2x/telegram-app.png" width="40" height="40" /></a>
-<a target="_blank" href="https://www.last.fm/user/daigo-anon"><img src="https://img.icons8.com/doodle/2x/fm.png"  width="40" height="40" /></a>
 <a target="_blank" href="https://discord.com/users/601423617036648458/"><img src="https://img.icons8.com/doodle/2x/discord--v2.png"  width="40" height="40" /></a>
 
 
